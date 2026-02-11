@@ -1,0 +1,14 @@
+{
+  "default_device_id": "pico_dev_3k_1e",
+  "devices": [
+    {
+      "device_id": "pico_dev_3k_1e",
+      "name": "Pico Dev (3 Keys + 1 Encoder)",
+      "match": { "type": "pico-macropad-backend" },
+      "ui": {
+        "keys": ["K1", "K2", "K3"],
+        "encoders": ["E0"]
+      }
+    }
+  ]
+}

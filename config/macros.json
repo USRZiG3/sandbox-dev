@@ -1,0 +1,38 @@
+{
+    "default": {
+        "K1": "macro_copy",
+        "K2": "macro_paste",
+        "K3": "macro_undo",
+        "K4": "",
+        "K5": "",
+        "K6": "",
+        "K7": "",
+        "K8": "",
+        "K9": "",
+        "K10": "",
+        "K11": "",
+        "K12": "",
+
+        "E0_CW": "macro_vol_up",
+        "E0_CCW": "macro_vol_down",
+        "E0_BTN": "macro_media_play_pause"
+    },
+    "gaming": {
+        "K1": "",
+        "K2": "",
+        "K3": "",
+        "K4": "",
+        "K5": "",
+        "K6": "",
+        "K7": "",
+        "K8": "",
+        "K9": "",
+        "K10": "",
+        "K11": "",
+        "K12": "",
+
+        "E0_CW": "",
+        "E0_CCW": "",
+        "E0_BTN": ""
+    }
+}
